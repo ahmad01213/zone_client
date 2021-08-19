@@ -44,7 +44,7 @@ class SignInScreen extends StatelessWidget {
                 ),
                 ClipRRect(
                     borderRadius: BorderRadius.circular(10),
-                    child: Image.asset("imgs/logo.jpeg", height: 90)),
+                    child: Image.asset("imgs/logo.png", height: 90)),
                 SizedBox(
                   height: 25,
                 ),

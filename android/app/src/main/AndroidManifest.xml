@@ -5,8 +5,8 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:usesCleartextTraffic="true"
-        android:label="arkan"
-        android:icon="@mipmap/ic_launcher">
+        android:label="أوامرك"
+        android:icon="@drawable/logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

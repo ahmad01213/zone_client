@@ -1,14 +1,10 @@
-import 'package:arkan/Pages/CategoryDetails.dart';
 import 'package:arkan/Pages/Home.dart';
-import 'package:arkan/Pages/HomeScreen.dart';
 import 'package:arkan/Pages/SignIn.dart';
 import 'package:arkan/helpers/helpers.dart';
 import 'package:arkan/widgets/bottom_bar.dart';
 import 'package:flutter/material.dart';
-
-
-import 'Account.dart';
 import 'Orders.dart';
+import 'account.dart';
 import 'notifications.dart';
 class NavigationPage extends StatefulWidget {
   @override

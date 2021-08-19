@@ -36,7 +36,7 @@ class _SplashScreenState extends State<SplashScreen> {
         color: Colors.white,
         child: Center(child: ClipRRect(
             borderRadius: BorderRadius.circular(10),
-            child: Image.asset('imgs/logo.jpeg',height: 150,width: 150,))),
+            child: Image.asset('imgs/logo.png',height: 150,width: 150,))),
       ),
     );
   }
